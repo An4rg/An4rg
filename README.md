@@ -3,7 +3,7 @@
 ## About Me
 👀 I’m interested in making Linux as fluid on trackpad as MacOS and pushing forward Asahi Linux.
 
-🤓 I'm currently working on an trackpad/touchscreen driven IDE.
+🤓 I'm currently working on trackpad/touchscreen driven app suite(currently the IDE).
 
 🌱 I’m currently learning Gtk4 for Python.
 
