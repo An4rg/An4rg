@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img width="100%" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkbWtvNXN4NzRlNjZkcDg2eHpnZmk2ajFteDRseXpoa3QzbmlmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif">
+<img width="150%" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkbWtvNXN4NzRlNjZkcDg2eHpnZmk2ajFteDRseXpoa3QzbmlmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif">
