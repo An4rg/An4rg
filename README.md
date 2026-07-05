@@ -7,6 +7,8 @@
 
 🌱 I’m currently learning Gtk4 for Python.
 
+💡 I already know how to use python, lua, c#, GDScript, Godot, GTK(partially), Unity, Love2D, flet(python flutter bindings)
+
 😄 Hobbies: Reading, Gaming, Coding, Touch some grass.
 
 ⚡ Fun facts: Im 14 yo and it's not my first github account, it's just my cleaner one.
